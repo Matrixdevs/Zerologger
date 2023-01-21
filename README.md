@@ -1,4 +1,6 @@
 # Zerologger
+
+!THIS IS FOR EDUCATION ONLY!
 This is a zero-day cookie logger for Roblox with GUI interface. It is the easiest to use and highly efficient. Use at your own risk.
 
 Roblox Token Logger
