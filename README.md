@@ -22,3 +22,4 @@ To stop logging, simply close the program or use the 'Stop' button provided in t
 Please note that using this program to log tokens from games that you do not own or have permission to access is strictly prohibited and may result in account bans or legal action.
 
 ![image](https://user-images.githubusercontent.com/73804475/213887294-84ca58c5-42ec-4739-bb76-fb37037fe09d.png)
+![image](https://cdn.itemsatis.com/uploads/post_images/discord-token-grabber-79694880.png)
