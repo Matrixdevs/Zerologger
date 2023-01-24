@@ -1,5 +1,7 @@
 # Zerologger
 
+UPDATE - TELEGRAM AND IP LOGS!
+
 !THIS IS FOR EDUCATION ONLY!
 
 
